@@ -1,2 +1,3 @@
 ### Simple React App
-# Count, Reset, Increment, Decrement, Delete
+#### Features- 
+[]Count, []Reset, []Increment, []Decrement, []Delete
