@@ -4,7 +4,7 @@ class Counter extends Component {
   render() {
     return (
       <div>
-        Items {this.props.counter.id}&nbsp;&nbsp;
+        Item #{this.props.counter.id}&nbsp;&nbsp;
         <button
           onClick={() => this.props.onDecrement(this.props.counter)}
           className="btn btn-secondary btn-sm m-1"
